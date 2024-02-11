@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+ 
+}
+
+.text{
+    color: white;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    user-select: none;
+    
+}   
+
+body:hover{
+    cursor:cell;
+}
